@@ -10,10 +10,9 @@ int main(){
     printf("enter second number:\n");
     scanf("%d\n",&b);
 
-    for(int i=0;i<b;i++){
+    for(int i=1;i<=b;i++){
         add+=a;  
-        printf("%d",&a);
     }
-    printf("%d",&a);
+    printf("%d",add);
     return 0;
 }

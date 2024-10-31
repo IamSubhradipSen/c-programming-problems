@@ -14,6 +14,7 @@ int main(){
         }
         sum+=fact;
     }
-    sum==copy_n?printf("Strong Number"):printf("Not a strong number");
+    
+    
     return 0;
 }

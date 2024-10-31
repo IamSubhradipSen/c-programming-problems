@@ -26,4 +26,5 @@ int main(){
 
     //check
     sum==copy_copy_n?printf("Amrstrong Number"):printf("not a strong number");
+    return 0;
 }
